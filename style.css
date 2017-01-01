@@ -1,0 +1,10 @@
+#sites-table input {
+  float: left;
+
+}
+
+
+td, th {
+  border: 1px solid #000;
+  padding: 10px;
+}
